@@ -1,16 +1,16 @@
 # EFI-AMD-ASUS-Strix-X570-E_Ryzentosh
 BASE EFI AMD - Ryzen for ASUS Strix-X570-E
 
-# Build Spec
+## Build Spec
 
-# ACPI SSDT's
+## ACPI SSDT's
 
-# Kexts
+## Kexts
 
-# What Works
+## What Works
 
-# What Doesn't Work
+## What Doesn't Work
 
-# BIOS Settings
+## BIOS Settings
 
-# Nvram -> boot args
+## Nvram -> boot args
