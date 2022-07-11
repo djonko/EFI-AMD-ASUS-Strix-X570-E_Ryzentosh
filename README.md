@@ -114,8 +114,10 @@ OS Type [Windows UEFI mode]
 ## What Works
 
 ## What Doesn't Work
+- On board WIFI or Bluetooth but I used : `FV-HB1200 Desktop PCI-E Wireless Adapter Mac OS Hackintosh Wifi Dual Band 1200Mbps Wi-Fi BT 4.0 802.11ac Wlan Card`
 
 ## Nvram -> boot args
+`alcid=21` for onboard audio cart
 
 ## Thanks to 
 - https://github.com/AMD-OSX/AMD_Vanilla
